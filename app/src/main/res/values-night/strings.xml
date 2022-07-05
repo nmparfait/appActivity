@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="o_que_voc_quer_fazer">O que voce quer fazer??</string>
+    <string name="insira_a_sua_tarefa">Insira o seu pensamento...</string>
+    <string name="deletar_tudo">Deletar tudo</string>
+    <string name="add">Add</string>
+    <string name="no_que_voc_quer_fazer">No que você está pensando hoje?</string>
+    <string name="registre_mais_uma">Registre o seu pensamento!</string>
+    <string name="logo_do_aplicativo_atividade">Logo do aplicativo com uma lãmpada indicando pensamento</string>
+    <string name="insira_o_seu_nome">Insira o seu nome</string>
+    <string name="vamos_comecar">Vamos Começar!</string>
+    <string name="add_na_lista">Add na lista</string>
+    <string name="textview">TextView</string>
+</resources>

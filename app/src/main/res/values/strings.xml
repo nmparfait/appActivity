@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Suas Ativivades Mae</string>
+    <string name="add_mais">Acrescente mais</string>
+    <string name="o_que_voc_quer_fazer">O que voce quer fazer?</string>
+    <string name="insira_a_sua_tarefa">Pode adicionar tarefas</string>
+    <string name="deletar_tudo">Apagar tudo</string>
+    <string name="add">Adicionar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bom dia, Podemos começar</string>
+    <string name="no_que_voc_quer_fazer">O que você quer fazer?</string>
+    <string name="registre_mais_uma">Pode gravar mais uma</string>
+    <string name="logo_do_aplicativo_atividade">logo do applicativo</string>
+    <string name="insira_o_seu_nome">Pode adicionar o seu nome</string>
+    <string name="vamos_comecar">Vamos juntos!</string>
+    <string name="add_na_lista">+ na lista</string>
+    <string name="textview">TextView</string>
+    <string name="a_atividade_do_dia">Atividade do dia:</string>
+    <string name="compartilhar_atividade">Pode compartilhar</string>
+    <string name="inserir_suas_atividades">Adicionar mais +</string>
+    <string name="icono_atividade">icono da atividade</string>
+    <string name="gerar_outra_atividade">mais uma atividade</string>
+    <string name="apagar_tudo">Deletar tudo</string>
+</resources>

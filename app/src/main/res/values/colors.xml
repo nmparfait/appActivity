@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="carrot_orange">#F18F01</color>
+    <color name="maximum_blue">#006E90</color>
+    <color name="columbia_blue">#ADCAD6</color>
+    <color name="midnight_green">#0D4553</color>
+    <color name="teal_700">#99C24D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
