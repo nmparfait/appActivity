@@ -1,8 +1,7 @@
 # My App Task
 
 <h2 align="center"> 
-    Fundamentos do Desenvolvimento Android 
-    Instituto INFNET.
+    Fundamentals of Android Development
 </h2>
 
 
