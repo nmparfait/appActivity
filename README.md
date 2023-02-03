@@ -7,13 +7,12 @@
 
 
 <h3 align="center">
-    Uma lista de tarefas básicas que a minha mae pode escolher de fazer depois de acordar. 
-    <br>App criado para ajudar minha mãe qui esquece as tarefas diárias que 
-    ela tem realizar.
+   A list of basic tasks my mom can choose to do after waking up.
+   <br>App created to help my mother who forgets the daily tasks she has to do.
 </h3>
 
 <h3 align="center">
-    O app foi desenvolvido no Android Studio, Usei RecyclerView, LiverData, ViewModel, Android Room
+   The app was developed in Android Studio, I used RecyclerView, LiverData, ViewModel, Android Room
 </h3>
 
 
